@@ -1,0 +1,26 @@
+{
+  "name": "covid",
+  "version": "1.0.0",
+  "description": "proyecto de covid 19 para la materia de ingeniería web",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "live-server src/Ñ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanmarc/Covid.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Alan Marcos Albino <@alanmarcs>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanmarc/Covid/issues"
+  },
+  "homepage": "https://github.com/alanmarc/Covid#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
